@@ -1,0 +1,6 @@
+.idea
+*.html
+log
+target
+*.iml
+*.DS_Store
